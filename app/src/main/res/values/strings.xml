@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="name_item_textView">Имя:</string>
+    <string name="species_text_view">Раса:</string>
+    <string name="gender_text_view">Пол:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="episode_info_text_view">Информация о эпизоде:</string>
+    <string name="episode_id_text_view">ID:</string>
+    <string name="episode_name_text_view">Name:</string>
+    <string name="episode_air_date_text_view">Air date:</string>
+    <string name="episode_number_text_view">Episode:</string>
+    <string name="character_species_text_view">Раса:</string>
+    <string name="character_gender_text_view">Пол:</string>
+    <string name="character_status_text_view">Статус:</string>
+    <string name="character_episodes_text_view">Кол-во эпизодов с участием:</string>
+    <string name="character_last_location_text_view">Последнее известное \nместоположение:</string>
+    <string name="item_no_internet_phrase_text_view">Отсутствует подключение к интернету</string>
+    <string name="item_no_internet_text_btn">Повторите попытку</string>
+</resources>

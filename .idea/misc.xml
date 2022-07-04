@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GB_Study/10_Kotlin_ment/9_RickAndMorty_mvc/RickAndMorty_3_mvc_pagination_update/app/src/main/res/layout/item_character.xml" value="0.1" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/9_RickAndMorty_mvc/RickAndMorty_3_mvc_pagination_update/app/src/main/res/layout/item_loading.xml" value="0.1" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/9_RickAndMorty_mvc/RickAndMorty_3_mvc_pagination_update/app/src/main/res/layout/item_no_internet.xml" value="0.1" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/9_RickAndMorty_mvc/RickAndMorty_3_mvc_pagination_update/app/src/main/res/layout/item_title.xml" value="0.1" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty/app/src/main/res/layout/activity_character.xml" value="0.32760416666666664" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty/app/src/main/res/layout/item_character.xml" value="0.33" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_2/app/src/main/res/layout/activity_character.xml" value="0.25" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_2/app/src/main/res/layout/item_character.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3/app/src/main/res/layout/activity_character.xml" value="0.19907407407407407" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3/app/src/main/res/layout/item_loading.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination/app/src/main/res/layout/activity_main.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination/app/src/main/res/layout/item_character.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination/app/src/main/res/layout/item_loading.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/activity_character.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/activity_main.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/fragment_episode.xml" value="0.3212461695607763" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/item_character.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/item_episode.xml" value="0.32533197139938713" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/item_loading.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/item_no_internet.xml" value="0.33177083333333335" />
+        <entry key="..\:/GB_Study/10_Kotlin_ment/RickAndMorty_3_pagination_update/app/src/main/res/layout/item_title.xml" value="0.33177083333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
